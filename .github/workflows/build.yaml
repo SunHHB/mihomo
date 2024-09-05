@@ -16,7 +16,7 @@ jobs:
           - aarch64_generic
           - x86_64
         release:
-          - openwrt-22.03.7
+          - openwrt-22.03
 
     steps:
       - name: Checkout
