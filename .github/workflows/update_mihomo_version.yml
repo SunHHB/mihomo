@@ -76,7 +76,7 @@ jobs:
         name: Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
-          path: OpenWrt-mihomo
+          path: mihomo
           branch: dependabot
           commit-message: Update Mihomo Version
           title: Update Mihomo Version
